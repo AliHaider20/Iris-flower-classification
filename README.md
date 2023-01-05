@@ -1,2 +1,5 @@
 # Iris-flower-classification
-Here a Decision Tree Model is used to predict the class of a plant.
+
+This project is made at the Sparks foundation.
+I've analysed and classified the dataset into 3 flower categories i.e Setosa, Versicolor, and Verginica.
+
